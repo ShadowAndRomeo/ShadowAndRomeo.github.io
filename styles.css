@@ -1,0 +1,73 @@
+body {
+	background:black;
+	color:white;
+	
+	
+	
+	
+}
+.intro{
+	text-align:center;
+	
+	
+	
+	
+}
+.instructions{
+	text-align:center;
+	margin-top:50px;
+	
+	
+	
+	
+}
+.shadow{
+	margin-left:200px;
+	margin-top:50px;
+	float:left;
+	
+	
+}
+.romeo{	
+	margin-right:200px;
+	margin-top:50px;
+	float:right;
+	
+}
+img{
+    border-radius:15px;
+
+
+
+
+
+}
+.smort{
+    float:left;
+    margin-left:50px;
+    
+
+}
+.funni{
+	float:right;
+	margin-right:50px;
+	margin-top:100px;
+	
+	
+}
+.content{
+    margin-left:250px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+

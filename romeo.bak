@@ -1,0 +1,25 @@
+<DOCTYPE html>
+<html>
+<head>
+<title>Romeo</title>
+<link rel="stylesheet" href="styles.css">
+
+
+
+
+
+</head>
+<body>
+<a href="index.html">&lt&ltback</a>
+<div class="intro">
+<h1>Romeo!</h1>
+</div>
+<img src="romeo2.jpg" class="smort" alt="tabby cat" width="300" height="400">
+<p class="content">Romeo is a very very cool cat, in which he is someohow cooler then shadow because he doesn't meow and eat all the time :/ He has ran away a few times but came back so I do not know if this is the OG Romeo but he acts the same so :/.
+If you do not like Romeo he will come and find you and lick u in the face with his very sharp tongue. He is very shy and very much also a pussy around new people. He also has claws unlike shadow - written by Romeo.</p>
+<div class="funni">
+<h3>funni picture</h3>
+<img src="romeo_funni.jpg" alt="funni tabby cat"width="300" height="400"
+</div>
+</body>
+</html>
