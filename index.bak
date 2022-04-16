@@ -17,7 +17,7 @@
 <div class="instructions">
 <p>Click on one of the cats to got to their page!</p>
 </div>
-<a href="shadow.html" class="shadow"><img src="shadow.jpg" alt="black cat" width="300" height="400"></a>
+<a href="Shadow.html" class="shadow"><img src="shadow.jpg" alt="black cat" width="300" height="400"></a>
 <a href="romeo.html" class="romeo"><img src="romeo.jpg" alt="tabby cat" width="300" height="400"></a>
 </body>
 </html>
